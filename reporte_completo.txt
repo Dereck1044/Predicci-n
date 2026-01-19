@@ -1,0 +1,34 @@
+========================================================================
+   REPORTE COMPLETO - SISTEMA DE GESTION DE CONTAMINACION DEL AIRE
+========================================================================
+
+--- ZONAS REGISTRADAS ---
+
+Zona ID 1: Solanda
+  CO2: 0.00 ppm | SO2: 333.00 ug/m3
+  NO2: 222.00 ug/m3 | PM2.5: 444.00 ug/m3
+
+Zona ID 2: Magdalena
+  CO2: 1999.00 ppm | SO2: 300.00 ug/m3
+  NO2: 200.00 ug/m3 | PM2.5: 100.00 ug/m3
+
+Zona ID 3: Chillogallo
+  CO2: 10.00 ppm | SO2: 20.00 ug/m3
+  NO2: 30.00 ug/m3 | PM2.5: 40.00 ug/m3
+
+
+--- HISTORIAL DE REGISTROS ---
+
+Fecha: 04/02/2024 | Zona: Solanda
+CO2: 0.00 | SO2: 333.00 | NO2: 222.00 | PM2.5: 444.00
+
+Fecha: 04/07/2021 | Zona: Magdalena
+CO2: 1999.00 | SO2: 300.00 | NO2: 200.00 | PM2.5: 100.00
+
+Fecha: 12/11/2025 | Zona: Chillogallo
+CO2: 10.00 | SO2: 20.00 | NO2: 30.00 | PM2.5: 40.00
+
+
+========================================================================
+Limites OMS: CO2=400 | SO2=20 | NO2=40 | PM2.5=25
+========================================================================
